@@ -1,4 +1,4 @@
-# Dark Matter
+# Dark Matter - Transparent
 A cold, dark & frosty theme with true transparency.
 > This is a remake of [DarkMatter](https://github.com/DiscordStyles/DarkMatter) which is a remake of the original Dark Matter theme by [cosmicsalad](http://github.com/cosmicsalad/) (AKA Hammock).
 
