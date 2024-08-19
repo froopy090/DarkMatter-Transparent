@@ -6,6 +6,7 @@ A cold, dark & frosty theme with true transparency.
 
 ## Download
 - Vencord: `https://raw.githubusercontent.com/froopy090/DarkMatter-Transparent/main/DarkMatter.theme.css`
+Note: Do not use the flatpack version of vesktop, or this will not work.
 
 ## Credits
 * Hammock for making the original theme.
